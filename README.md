@@ -1,18 +1,9 @@
-# my-first-repo
+# my-first-repo-summer-2025
 
-I added this sentence using the github online interface to edit the file.
-New 
+## Usage
 
-# My First Repo!
+Play a game of rock, paper scissors:
 
-This is the README.md file. It uses the markdown language.
-
-Here is a list:
-
-  + Item 1
-  + Item 2
-  + Item 3
-
-For more information about Markdown syntax, see the [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/).
-
-1234
+```sh
+python app/rps.py
+```
